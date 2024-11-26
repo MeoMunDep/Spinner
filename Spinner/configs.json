@@ -2,5 +2,6 @@
   "limit": 1000,
   "countdown": 300,
   "country_time": "vi-VN",
-  "howManyUpgrade": 1
+  "howManyUpgrade": 1,
+  "doTasks":true
 }
