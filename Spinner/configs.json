@@ -3,5 +3,6 @@
   "countdown": 300,
   "country_time": "vi-VN",
   "howManyUpgrade": 1,
-  "doTasks":true
+  "doTasks": false,
+  "delayEachAccount": [1, 81]
 }
